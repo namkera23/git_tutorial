@@ -1,2 +1,2 @@
 console.log('constant');
-console.log('version1');
+console.log('version2');
